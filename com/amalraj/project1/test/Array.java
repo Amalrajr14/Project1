@@ -1,3 +1,4 @@
+package com.amalraj.project1.test;
 class Array{
 public static void main(String args[]){
 int values[]={10,20,30,40,50};
